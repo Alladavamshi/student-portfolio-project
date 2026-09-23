@@ -1,0 +1,19 @@
+# React
+student-portfolio-frontendr/node_modules
+student-portfolio-frontendr/dist
+student-portfolio-frontendr/build
+
+# Spring Boot
+studentportfoliobackend/target
+*.class
+*.log
+
+# VS Code
+.vscode/
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
